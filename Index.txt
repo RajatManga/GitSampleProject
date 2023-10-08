@@ -1,0 +1,7 @@
+Animal
+birds are flying 
+Dogs are barking
+
+change in working directory
+
+Working directory vs Last commit
